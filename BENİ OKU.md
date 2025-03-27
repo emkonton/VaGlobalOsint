@@ -19,7 +19,8 @@ Proje için aşağıdaki Python modüllerini yüklemeniz gerekmektedir:
 Modülleri yüklemek için terminalde şu komutu kullanabilirsiniz:
 
 ```bash
-pip install -r requirements.txt
+pip install selenium webdriver_manager colorama
+
 
 ```
 
