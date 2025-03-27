@@ -20,7 +20,11 @@ Modülleri yüklemek için terminalde şu komutu kullanabilirsiniz:
 
 ```bash
 pip install selenium webdriver_manager colorama
+```
 
+```bash
+
+gem install colorize
 
 ```
 
