@@ -1,3 +1,15 @@
+
+
+
+
+Replace the code in the `external_script_runner` section with your own Python path.
+
+![gtchange](https://github.com/user-attachments/assets/8f261dfa-6232-495d-aa61-bee1fba73bf0)
+
+
+
+
+
 The code is written in Ruby and Python.
 
 As of 28.03.2025, the features are as follows:
