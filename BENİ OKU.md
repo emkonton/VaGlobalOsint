@@ -21,6 +21,7 @@ Modülleri yüklemek için terminalde şu komutu kullanabilirsiniz:
 ```bash
 pip install -r requirements.txt
 
+```
 
 Python 3.13 yüklü olduğundan emin olun. ve üstü.
 
