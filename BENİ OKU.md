@@ -1,54 +1,34 @@
-**Henuz geliştirme aşamasındadır 3 sosyal medya hesabı örnek olarak vardır**
+# VaOsint - Sosyal Medya ve CVE Araçları
+
+**Henüz geliştirme aşamasındadır. Şu an 3 sosyal medya hesabı örnek olarak bulunmaktadır.**
 
 ### Python Path
-Proje için Python 3.13 kullanılması önerilmektedir. Python'un doğru bir şekilde yüklendiğinden emin olun. Python'un yeri şu şekilde ayarlanmıştır:
-- Python Yolu: `C:/Users/emirs/AppData/Local/Programs/Python/Python313/python.exe`
-Ayarlıdır kendi yolunuzla düzeltin
+Proje için **Python 3.13** kullanılması önerilmektedir. Python'un doğru bir şekilde yüklendiğinden emin olun. Python'un yeri şu şekilde ayarlanmıştır:
+- **Python Yolu**: `C:/Users/emirs/AppData/Local/Programs/Python/Python313/python.exe`
 
+Yolunuzu buna göre ayarlayın.
 
 ### Gereksinimler
 Proje için aşağıdaki Python modüllerini yüklemeniz gerekmektedir:
+
 - selenium
 - webdriver_manager
 - colorama
 - time
 
 Modülleri yüklemek için terminalde şu komutu kullanabilirsiniz:
+
 ```bash
 pip install -r requirements.txt
 
 
+Python 3.13 yüklü olduğundan emin olun. ve üstü.
 
+Varsayılan Ayarlar
+Sayfa yükleme süresi: 3 saniye (İnterneti yavaş olanlar için bu süreyi artırabilirler).
 
-### 3. **Çalıştırma Talimatları:**
-Projeyi başlatmadan önce kullanıcıların hangi adımları izlemesi gerektiğini yazmalısın. Örneğin:
-
-```markdown
-### Kullanım
-Projenin çalıştırılabilmesi için aşağıdaki adımları izleyin:
-
-1. Python 3.13 yüklü olduğundan emin olun.
-2. Gerekli modülleri yüklemek için terminalde şu komutu çalıştırın:
-   ```bash
-   pip install -r requirements.txt
-
-
-
-```markdown
-### Varsayılan Ayarlar
-- Sayfa yükleme süresi: 3 saniye (İnterneti yavaş olanlar için bu süreyi artırabilirler).
-- Sosyal medya platformları: Facebook, Twitter, Instagram, X (eski Twitter).
-
-
-
-
-28.03.2025 özellikleri ile şuanlık şoyledir
-
--Araç cve açığı hakkında internette uzun zaman harcamadan yüzelsel bilgileri saniyeler içinde terminalinize yansıtır
--Araç sınıf lar kullanalar hiç birşey tek bir dosyaya sıkıştırlırmadan ve bol yorum satırı ile geliştirmeye açıktır
--Araç daha geliştirilmektedir ve fikirlere çok açığız
-
+Sosyal medya platformları: Facebook, Twitter, Instagram, X (eski Twitter).
 
 Misyon
+Amacım, Türklerin de siber güvenlik alanında güçlü araçlara sahip olmasını sağlamaktır. Bu konuda vatanseverlik dışında herkese açık ve faydalı bir şeyler yapmak amacıyla bu aracı geliştirdim. Bu araç, her seviyeden kullanıcının ihtiyaçlarına hitap edecek şekilde tasarlanmıştır.
 
-Amacım Türklerinde siber güvenlikte güçlü tooları olmasıdır, bu konuda vatanseverlik dışında herkeze açık ve faydalı birşeyler yapmak içinde bugun bu kod vardır.
