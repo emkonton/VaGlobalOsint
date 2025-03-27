@@ -22,6 +22,13 @@ You can install the required modules by running the following command in the ter
 pip install selenium webdriver_manager colorama
 
 ```
+
+```bash
+gem install colorize
+
+
+```
+
 Make sure Python 3.13 or a later version is installed.
 
 Default Settings
