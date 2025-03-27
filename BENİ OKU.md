@@ -24,7 +24,8 @@ pip install selenium webdriver_manager colorama
 
 ```bash
 
-gem install colorize
+gem install colorize selenium-webdriver webdrivers colorama
+
 
 ```
 
