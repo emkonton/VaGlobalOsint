@@ -1,25 +1,35 @@
+# VaOsint - Social Media and CVE Tools
+
+**Currently in the development phase. At the moment, there are 3 social media account examples.**
+
+### Python Path
+It is recommended to use **Python 3.13** for this project. Make sure that Python is properly installed. The Python path is set as follows:
+- **Python Path**: `C:/Users/emirs/AppData/Local/Programs/Python/Python313/python.exe`
+
+Adjust it according to your own Python installation path.
+
+### Requirements
+The following Python modules need to be installed for this project:
+
+- selenium
+- webdriver_manager
+- colorama
+- time
+
+You can install the required modules by running the following command in the terminal:
+
+```bash
+pip install selenium webdriver_manager colorama
+
+```
+Make sure Python 3.13 or a later version is installed.
+
+Default Settings
+Page load time: 3 seconds (Users with slower internet can increase this time).
+
+Social media platforms: Facebook, Twitter, Instagram, X (formerly Twitter).
+
+Mission
+My goal is to ensure that Turkish individuals also have strong tools in the field of cybersecurity. This tool was developed to create something useful and accessible for everyone, beyond patriotism. It is designed to meet the needs of users of all levels.
 
 
-
-
-Replace the code in the `external_script_runner` section with your own Python path.
-
-![gtchange](https://github.com/user-attachments/assets/8f261dfa-6232-495d-aa61-bee1fba73bf0)
-
-
-
-
-
-The code is written in Ruby and Python.
-
-As of 28.03.2025, the features are as follows:
-
-The tool provides surface-level information about CVE vulnerabilities in seconds, without wasting time browsing the internet, and displays it in your terminal.
-
-The tool uses classes, ensuring that nothing is crammed into a single file, and is open for development with plenty of comments.
-
-The tool is still being developed, and we are very open to suggestions.
-
-Mission:
-
-My goal is for Turks to have strong tools in cybersecurity. This code exists today as part of that mission, aiming to create something useful and accessible to everyone, regardless of patriotism.
